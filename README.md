@@ -1,7 +1,6 @@
 # SIV
 
-Sistema de identificacion vehicular:
-Compuesto principalmente por un sensor biométrico, un módulo GPS, un relee y el cerebro de la operación un ESP32, este prototipo es capaz de autorizar el paso de corriente que acciona la chispa de la bujía de una moto controlando así su encendido.
+Sistema de identificacion vehicular
 
 # Idea principal del funcionamiento del sistema (flow-chart)
 
