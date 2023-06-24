@@ -1,0 +1,8 @@
+Se compra el sensor de huellas para programarlo en un principio con la interfaz de Thonny usando mircoPython.
+No obstante el sensor de huellas fue hecho especificamente para ser trabajado con arduino, por ende fue bastante complejo lograr su funcionamiento debido a la incompatibilidad de las librerias que se requerian.
+Incluso trabajando con el IDE de arduino la tarea era bastante complicada.
+Por ende se opta por usar propiamente el lenguaje de arduino para comprobar que el funcionamiento del sensor sea eficaz.
+Efectivamente, el sensor funciona y se le añade la parte del gps, todo trabajo con arduino.
+El otro compañero de equipo decide trabajar la otra parte del codigo con MicroPython y por ende se debe volver a Thonny junto a la esp32 debido a la incompatibilidad.
+El sensor sigue sin funcionar y al volver neuvamente a arduino el sensor deja de funcionar, parece que un de sus componentes internos se quemo.
+Debido al costo de ese sensor se opta por usar otras metodologias como el Tac o el teclado de matriz para facilitar el ingreso al usuario.
