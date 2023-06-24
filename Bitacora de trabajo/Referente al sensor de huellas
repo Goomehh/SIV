@@ -1,10 +1,22 @@
-Se compra el sensor de huellas para programarlo en un principio con la interfaz de Thonny usando mircoPython.
+Se compra el sensor de huellas para programarlo en un principio con la interfaz de Thonny usando microPython.
 No obstante el sensor de huellas fue hecho especificamente para ser trabajado con arduino, por ende fue bastante complejo lograr su funcionamiento debido a la incompatibilidad de las librerias que se requerian.
 Incluso trabajando con el IDE de arduino la tarea era bastante complicada.
 Por ende se opta por usar propiamente el lenguaje de arduino para comprobar que el funcionamiento del sensor sea eficaz.
-Efectivamente, el sensor funciona y se le añade la parte del gps, todo trabajo con arduino.
+Efectivamente, el sensor funciona y se le añade la parte del gps, todo trabajado con arduino.
 El otro compañero de equipo decide trabajar la otra parte del codigo con MicroPython y por ende se debe volver a Thonny junto a la esp32 debido a la incompatibilidad.
-El sensor sigue sin funcionar y al volver neuvamente a arduino el sensor deja de funcionar, parece que un de sus componentes internos se quemo.
+El sensor sigue sin funcionar y al volver nuevamente a arduino el sensor deja de funcionar, parece que un de sus componentes internos se quemo.
 Debido al costo de ese sensor se opta por usar otras metodologias como el Tac o el teclado de matriz para facilitar el ingreso al usuario.
 Se consulta con el profesor sobre el estado del sensor a ver si el problema es el codigo, pero se confirma la averia y se descarta del proyecto.
 
+Videos usados para desarrollar parte de los codigos del sensor tanto en microPython como en arduino:
+  Con esp32:
+    https://www.youtube.com/watch?v=MUMjrrMUafU&ab_channel=pcbreflux
+    https://www.youtube.com/watch?v=ItpVjd6d1Is&ab_channel=JustDoElectronics
+    https://www.youtube.com/watch?v=v-t8AFjW08M&ab_channel=HowToElectronics
+  Con arduino:
+    https://www.youtube.com/watch?v=9adYnZxFLTg&ab_channel=ElprofeGarc%C3%ADa
+    https://www.youtube.com/watch?v=gpXuEghz1zc&ab_channel=CreativityBuzz
+    https://www.youtube.com/watch?v=fDYc6-bksqM&ab_channel=hashincludeelectronics
+    https://www.youtube.com/watch?v=Mod_dwWmI70&ab_channel=nenioc187
+
+(Fotos adjuntas en la carpeta "Fotos")
