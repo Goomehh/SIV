@@ -1,0 +1,10 @@
+Se compra el modulo GPS y evitando que se queme asi como paso con el sensor, unicamente se desarrolla con arduino.
+El funcionamiento es eficaz, sin embargo cuando se entra a alguna edificacion el sensor empieza a presentar fallas a la hora de proporcionar algunos datos.
+En otras ocaciones el modulo ni siquiera responde y no es capaz de mandar datos de ningun tipo.
+No se sabe con certeza si es debido a la originalidad del producto, el codigo o el espacio en donde es puesto en marcha.
+Continuando con el proceso se busca implementar estos datos en una aplicacion movil que permita al usuario saber la ubicacion del esp32.
+Se usa la plataforma Blynk y se hace la respectiva conexion al esp32.
+Se requiere de una simcard 2G y un modulo para la sd
+Se hace un pequeño circuito para comprobar el funcionamiento de estos componentes, el led rojo del modoulo sim800L deja de parpadear cuando se conecta a una red
+Debido a las compliaciones para conseguir la tarjeta 2G debido a que estan descontinuadas se opta por usar un modulo Lora
+Este modulo funciona a base de frecuencias de radio, a parte de que permite un alcance mucho mayor, no requiere del uso de simcards
