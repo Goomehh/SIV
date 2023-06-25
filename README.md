@@ -4,7 +4,8 @@ Sistema de identificacion vehicular
 
 # Idea principal del funcionamiento del sistema (flow-chart)
 
-Dos diagramas independientes pero que hacen parte del mismo objetivo
+Dos diagramas independientes pero que hacen parte del mismo objetivo.
+Como se puede ver en la primera parte del diagrama, el proyecto esta principalemtne orientado a las motos, esto debido a su inidice de hurto en la capital y la accesibilidad que se tiene a sus componentes internos.
 
 ![image](https://github.com/Goomehh/SIV/assets/133666827/40a292cd-8201-4537-b9b8-ec569c7c0965)
 
