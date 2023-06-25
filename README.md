@@ -2,6 +2,12 @@
 
 Sistema de identificacion vehicular
 
+# Poster Ingenia Futuro
+
+Poster enfocado a la problematica junto a la propuesta de solucion presentada
+
+![Poster](https://github.com/Goomehh/SIV/assets/133666827/ec5315f4-2898-4402-9702-ef28de077d79)
+
 # Idea principal del funcionamiento del sistema (flow-chart)
 
 Dos diagramas independientes pero que hacen parte del mismo objetivo.
@@ -20,20 +26,16 @@ De la misma forma se grafica como iria linealmente la secuencia de pasos necesar
 
 # Diagrama de caja negra
 
-Se plantea lo que viene siendo la alimentacion del circuito y de la misma forma la secuencia adecuada para el procesamiento de los datos
+Se plantea lo que viene siendo la alimentacion del circuito y de la misma forma la secuencia adecuada para el procesamiento de los datos, esto teniendo en cuenta el diagrama de flujo que nos explica como debe funcionar el circuito, es necesario tener en cuenta los componenetes principales de cada sector, es decir, los puntos vitales que requiere el circuito, como la alimentacion, el "cerebro", los actuadores, sensores, entre otros.
 
 ![image](https://github.com/Goomehh/SIV/assets/133666827/4f9223af-d3ee-42a9-8b0c-bbfc7adafeba)
 
 # Diagrama de caja negra con tecnologia definida
 
-Una vez definida la dinamica y funcionamiento del circuito se empiezan a buscar componentes aptos para facilitar el ensamble, programacion y adaptacion
+Una vez definida la dinamica y funcionamiento del circuito se empiezan a buscar componentes aptos para facilitar el ensamble, programacion y adaptacion, en nuestro caso usaremos componentes especificos como lo son el Esp32, un sensor de huellas fpm10a, un modulo sim para la tarjeta SD, entre otros (Lista completa en la seccion "Materiales").
 
 ![image](https://github.com/Goomehh/SIV/assets/133666827/2f8c2ea7-a974-48cc-8fa4-8a95fc53769e)
 
-# Poster Ingenia Futuro
 
-Poster
-
-![Poster](https://github.com/Goomehh/SIV/assets/133666827/ec5315f4-2898-4402-9702-ef28de077d79)
 
 
