@@ -40,6 +40,12 @@ Una vez definida la dinamica y funcionamiento del circuito se empiezan a buscar 
 
 ![image](https://github.com/Goomehh/SIV/assets/133666827/2f8c2ea7-a974-48cc-8fa4-8a95fc53769e)
 
+# Esquematico del circuito 
+
+En esta seccion se pretende diseñar de forma clara y organizada la conexion de los diferentes componentes que se van a implementar de forma que en caso de requerir fabricar una PCB, no haya mayor complicacion, el circuito fue hecho mediante la aplicacion Kicad.
+
+![image](https://github.com/Goomehh/SIV/assets/133666827/52da2a77-c38f-4f12-aae1-b41fa6d9ed6a)
+
 
 
 
