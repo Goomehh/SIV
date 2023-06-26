@@ -2,6 +2,10 @@
 
 Sistema de identificacion vehicular
 
+# Info
+
+El modelado de la caja y la placa de las conexiones usadas se encuentran en el apartado "Fotos" y "Videos"
+
 # Poster Ingenia Futuro
 
 Poster enfocado a la problematica junto a la propuesta de solucion presentada
