@@ -1,0 +1,7 @@
+Al dañarse nuestro sensor de huellas, recurrimos a utilizar un teclado para validar al usuario por medio de una clave de 4 dígitos (podrían ser más).
+Al ser un teclado matricial de 4 * 3 se utilizan 7 pines que combinados nos dan la ubicación de la matriz.
+Para poderla programar en micro python utilizamos los pines de gpio (4,16,17,5,18,19,21) conectados a los pines del teclado.
+Se debe tener en cuenta que los pines del teclado no estan en orden es decir, los pines 1,3,5 corresponden a las filas de la matriz del medio, izquierda y derecha respectivamente.
+Los pines 2,4,6,7 corresponden a las columnas siendo el dos a la primera, el pin 4 a ultima el pin 6 a la tercera y el pin 7 a la segunda columna.
+Fue un proceso algo extenso encontrar las conexiones pues la matriz no funciona cuando se cruzan los pines, y dicha conexión es poco intuitiva.
+Fue un proceso extenso la obtención de la matriz pero se logró, finalmente la programación del teclado en foros fue relativamente sencilla. 
