@@ -69,4 +69,4 @@ A continuacion se anexan algunas fotos sobre los montajes del circuito al vehicu
 
 ![image](https://github.com/Goomehh/SIV/assets/133666827/3cdabd3a-631e-4f36-baab-9c583e95f7ce)
 
-(Aclaracion: en esta documentacion no esta incluida la CPB mencionada con anterioridad)
+(Aclaracion: en esta documentacion no esta incluida la PCB mencionada con anterioridad)
