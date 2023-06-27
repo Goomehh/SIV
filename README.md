@@ -46,6 +46,16 @@ En esta seccion se pretende diseñar de forma clara y organizada la conexion de 
 
 ![image](https://github.com/Goomehh/SIV/assets/133666827/52da2a77-c38f-4f12-aae1-b41fa6d9ed6a)
 
+# Esquematico de la placa PCB
+
+En este esqumatico se puede apreciar la ubicacion de cada uno de los compenetes presentados anteriormente, a excepcion de los pulsadores que simulan al teclado, para este se ponen los puertos para soldar, por otro lado tambien se aprecian las conexiones que se realizan de forma que se ahorra bastante espacio, este tipo de conexiones se manejaron por ambos lados con ese mismo objetivo en mente
+
+![image](https://github.com/Goomehh/SIV/assets/133666827/1a84122d-c368-4c1f-addb-f30294e7e384)
+
+# Vista 3D del a PCB
+
+![image](https://github.com/Goomehh/SIV/assets/133666827/9f9d901e-151e-42fe-8aa8-322061450e03)
+
 
 
 
