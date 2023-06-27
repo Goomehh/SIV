@@ -7,4 +7,4 @@ Se usa la plataforma Blynk y se hace la respectiva conexion al esp32.
 Se requiere de una simcard 2G y un modulo para la sd
 Se hace un pequeño circuito para comprobar el funcionamiento de estos componentes, el led rojo del modoulo sim800L deja de parpadear cuando se conecta a una red
 Debido a las compliaciones para conseguir la tarjeta 2G debido a que estan descontinuadas se opta por usar un modulo Lora
-Este modulo funciona a base de frecuencias de radio, a parte de que permite un alcance mucho mayor, no requiere del uso de simcards
+Este modulo funciona a base de frecuencias de radio, a parte de que permite un alcance mucho mayor, no requiere del uso de simcards.
