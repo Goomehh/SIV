@@ -48,7 +48,7 @@ En esta seccion se pretende diseñar de forma clara y organizada la conexion de 
 
 # Esquematico de la placa PCB
 
-En este esqumatico se puede apreciar la ubicacion de cada uno de los compenetes presentados anteriormente, a excepcion de los pulsadores que simulan al teclado, para este se ponen los puertos para soldar, por otro lado tambien se aprecian las conexiones que se realizan de forma que se ahorra bastante espacio, este tipo de conexiones se manejaron por ambos lados con ese mismo objetivo en mente
+En este esqumatico se puede apreciar la ubicacion de cada uno de los compenetes presentados anteriormente, a excepcion de los pulsadores que simulan al teclado, para este se ponen los puertos para soldar, por otro lado tambien se aprecian las conexiones que se realizan de forma que se ahorra bastante espacio, este tipo de conexiones se manejaron por ambos lados con ese mismo objetivo en mente.
 
 ![image](https://github.com/Goomehh/SIV/assets/133666827/1a84122d-c368-4c1f-addb-f30294e7e384)
 
@@ -57,5 +57,16 @@ En este esqumatico se puede apreciar la ubicacion de cada uno de los compenetes 
 ![image](https://github.com/Goomehh/SIV/assets/133666827/9f9d901e-151e-42fe-8aa8-322061450e03)
 
 
+# Pruebas
 
+A continuacion se anexan algunas fotos sobre los montajes del circuito al vehiculo, sin embargo la mayoria de este archivo multimedia lo puede encontrar en las carpetas designadas.
 
+![image](https://github.com/Goomehh/SIV/assets/133666827/bfd6745d-a2c4-4aa6-9993-9beb741e0051)
+
+![image](https://github.com/Goomehh/SIV/assets/133666827/b74f8399-f396-4af8-b72d-c09fa02bc266)
+
+![image](https://github.com/Goomehh/SIV/assets/133666827/d765011c-92d1-490c-8db9-6f84c3a346ea)
+
+![image](https://github.com/Goomehh/SIV/assets/133666827/3cdabd3a-631e-4f36-baab-9c583e95f7ce)
+
+(Aclaracion: en esta documentacion no esta incluida la CPB mencionada con anterioridad)
