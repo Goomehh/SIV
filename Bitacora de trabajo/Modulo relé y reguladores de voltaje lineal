@@ -1,0 +1,8 @@
+Se conectó un relé de 12 voltios de 5 patas, la conexión del relé se realizó dejándolo normalmente cerrado.
+Cuando se ingresará una salida digital con ayuda de un transistor 2n2222a se daba la señal saliente del módulo esp 32 y dicho relé se abría dando paso a la conexión deseada.
+
+Como se utilizaba 12 voltios en la batería de la moto se decide utilizar reguladores de voltaje lineales para utilizar la batería como fuente.
+Para poder encender el microcontrolador se requiere un voltaje de 5 voltios, con lo cual se utilizó un L780 5v con ayuda de un dos capacitores de 10 microfaradios.
+Esto para evitar los picos de voltaje conectados a la entrada y a la salida de del regulador.
+Acto seguido se realizó los mismos pasos mencionados anteriormente pero además se le agregó otro regulador de voltaje pero que del voltaje de 5 voltios pasará a un voltaje de 3.3
+  para este fuese medido como una entrada analogica indicandole al modulo esp 32 que ya se puede ingresar el valor de la clave. 
