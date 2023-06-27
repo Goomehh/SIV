@@ -1,0 +1,4 @@
+Queríamos que el usuario con ayuda de una señal visible, pudiese determinar si estaba o no ingresando la contraseña, si la contraseña era correcta o incorrecta.
+Con lo cual se opto por un led rgb en la parte de arriba del teclado, este led prendia color azul cuando se esta ingresando una clave.
+En verde durante dos segundos si la contraseña es correcta y en rojo si la contraseña es incorrecta.
+Se utilizaron los pines 26 (ánodo común) y los pines gpio 13,12,14 para programar dicho led. 
